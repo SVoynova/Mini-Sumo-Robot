@@ -4,7 +4,7 @@ The objective of this project is to design, build and test two autonomous mini-s
 Its focus is intended to be towards embedded software and sensors, more specifically.
 
 
-# 1. Overview of the idea
+# 1. Idea overview
 
 Two self-controlled robots are placed in a ring. The robots try to avoid falling out or avoid being pushed out by the opponent robot. The first robot that touches outside of the ring loses the round.
 
@@ -59,7 +59,7 @@ https://user-images.githubusercontent.com/60289976/115119076-50493400-9faf-11eb-
   - 2 silicone tracks 
   - stainless steel blade
   - array of six iR sensors 
-  - 3-axis accelerometer 
+  - HC-SR04 ultrasonic distance sensor
   - buzzer  
   - 4 AA batteries
 
