@@ -78,10 +78,19 @@ MarsWalker's software uses the data given by the sensors attached to the Arduino
 - attacking the opponent if detected by the ultrasonic distance sensor
 - scanning the ring while trying to detect the opponent
 
+
+# Setup
+How to start a battle:
+- Switch on the robot 
+- Press the button and wait the robot to callibrate the its sensors
+- Press the button once again and wait for the count down to go off 
+
 # Contest 
 
 https://user-images.githubusercontent.com/60289976/115122732-22211f80-9fc2-11eb-80a9-90d2e445cabc.mp4
 
 
+# Lincense
 
+This project is licensed under the terms of the MIT license.
 
