@@ -16,5 +16,8 @@ The first robot to win two rounds, wins the match. Different robots compete one-
 
 # 2. Robots
 
-This project features 2 Zumo Robots for Arduino v1.2.
+This project features two Pololu Zumo Robots for Arduino v1.2.
 The Zumo robot is a low-profile tracked robot platform intended for use with an Arduino as its main controller. It measures less than 10 cm on each side and weighs approximately 300 g with an Arduino Uno and batteries, so it is both small enough and light enough to qualify for Mini-Sumo competitions.
+![image](https://user-images.githubusercontent.com/60289976/115118052-24777f80-9faa-11eb-8237-e3ba51423dec.png)
+
+
