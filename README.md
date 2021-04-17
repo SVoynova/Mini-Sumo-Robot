@@ -13,8 +13,10 @@ After positioning and starting the robot, no remote control, power, positioning,
 
 The first robot to win two rounds, wins the match. Different robots compete one-on-one against each other throughout the contest. The robot that wins the most matches wins the contest.
 
+# 2. The ring
+Unlike most mini-sumo competitions, the ring used for this project is white with black borders. For the purpose of the project, the robots are programmed to function on that board. All of this is done for convenience and rapidity.
 
-# 2. Robots 
+# 3. Robots 
 
 This project features two Pololu Zumo Robots for Arduino v1.2.
 
@@ -39,12 +41,18 @@ https://user-images.githubusercontent.com/60289976/115119066-4a535300-9faf-11eb-
   - dual motor drivers
   - 2 silicone tracks 
   - stainless steel blade
-  - array of six iR sensors 
+  - IR reflectance sensor array
   - 3-axis accelerometer 
   - buzzer  
   - 4 AA batteries
  
+ 
 2. Software
+   
+MoonWalker's software uses the data given by the sensors attached to the Arduino Uno to perform the following actions, listed by importance:
+- navigating in the scopes of the ring indefinitely without going out of it, using the leftmost and the rightmost sensors on the reflectance sensor array.
+- attacking the opponent if contact is detected by the 3-axis accelerometer 
+- scanning the ring 
   
 
 # The MarsWalker
@@ -58,12 +66,22 @@ https://user-images.githubusercontent.com/60289976/115119076-50493400-9faf-11eb-
   - dual motor drivers
   - 2 silicone tracks 
   - stainless steel blade
-  - array of six iR sensors 
+  - IR reflectance sensor array 
   - HC-SR04 ultrasonic distance sensor
   - buzzer  
   - 4 AA batteries
 
+
 2. Software
+MarsWalker's software uses the data given by the sensors attached to the Arduino Uno to perform the following actions, listed by importance:
+- navigating in the scopes of the ring indefinitely without going out of it, using the leftmost and the rightmost sensors on the reflectance sensor array.
+- attacking the opponent if detected by the ultrasonic distance sensor
+- scanning the ring while trying to detect the opponent
+
+# Contest 
+
+https://user-images.githubusercontent.com/60289976/115122732-22211f80-9fc2-11eb-80a9-90d2e445cabc.mp4
+
 
 
 
