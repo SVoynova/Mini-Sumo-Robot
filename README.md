@@ -4,7 +4,7 @@ The objective of this project is to design, build and test two autonomous mini-s
 Its focus is intended to be towards embedded software and sensors, more specifically.
 
 
-# 1. Idea overview
+# Idea overview
 
 Two self-controlled robots are placed in a ring. The robots try to avoid falling out or avoid being pushed out by the opponent robot. The first robot that touches outside of the ring loses the round.
 
@@ -13,10 +13,10 @@ After positioning and starting the robot, no remote control, power, positioning,
 
 The first robot to win two rounds, wins the match. Different robots compete one-on-one against each other throughout the contest. The robot that wins the most matches wins the contest.
 
-# 2. The ring
+# The ring
 Unlike most mini-sumo competitions, the ring used for this project is white with black borders. For the purpose of the project, the robots are programmed to function on that board. All of this is done for convenience and rapidity.
 
-# 3. Robots 
+# Robots 
 
 This project features two Pololu Zumo Robots for Arduino v1.2.
 
@@ -79,18 +79,18 @@ MarsWalker's software uses the data given by the sensors attached to the Arduino
 - scanning the ring while trying to detect the opponent
 
 
-# 4. Setup
+# Setup
 How to start a battle:
 - Switch on the robot 
 - Press the button and wait the robot to callibrate the its sensors
 - Press the button once again and wait for the count down to go off 
 
-# 5. Contest 
+# Contest 
 
 https://user-images.githubusercontent.com/60289976/115122732-22211f80-9fc2-11eb-80a9-90d2e445cabc.mp4
 
 
-# 6. Lincense
+# Lincense
 
 This project is licensed under the terms of the MIT license.
 
