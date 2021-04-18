@@ -88,13 +88,15 @@ How to start a battle:
 # Contest 
 
 Round № 1
-
 https://user-images.githubusercontent.com/60289976/115122732-22211f80-9fc2-11eb-80a9-90d2e445cabc.mp4
 
 
 Round № 2
+https://user-images.githubusercontent.com/60289976/115131593-dd1cdd80-a001-11eb-8dd5-0759030cba79.mp4
 
 
+Round № 3
+https://user-images.githubusercontent.com/60289976/115131609-fde53300-a001-11eb-9181-3bd6bd2e2c28.mp4
 
 
 # Lincense
