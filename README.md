@@ -2,11 +2,7 @@
 
 The objective of this project is to design, build and test two autonomous mini-sumo robots which aim to push each other out of the ring.
 Its focus is intended to be towards embedded software and sensors, more specifically.
-
-https://user-images.githubusercontent.com/60289976/115634841-11024680-a313-11eb-87cb-42d4dd77e916.mp4
-https://user-images.githubusercontent.com/60289976/115634934-473fc600-a313-11eb-9e50-2af1b1733537.mp4
-
-
+![Picture1](https://user-images.githubusercontent.com/60289976/115635033-722a1a00-a313-11eb-8d14-9c94f07903e7.jpg)
 
 
 # Idea overview
