@@ -50,8 +50,8 @@ https://user-images.githubusercontent.com/60289976/115119066-4a535300-9faf-11eb-
 2. Software
    
 MoonWalker's software uses the data given by the sensors attached to the Arduino Uno to perform the following actions, listed by importance:
-- navigating in the scopes of the ring indefinitely without going out of it, using the leftmost and the rightmost sensors on the reflectance sensor array.
 - attacking the opponent if contact is detected by the 3-axis accelerometer 
+- navigating in the scopes of the ring indefinitely without going out of it, using the leftmost and the rightmost sensors on the reflectance sensor array.
 - scanning the ring 
   
 
