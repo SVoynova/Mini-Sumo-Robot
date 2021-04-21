@@ -1,7 +1,8 @@
 # Mini-Sumo-Robot-Competition
 
 The objective of this project is to design, build and test two autonomous mini-sumo robots which aim to push each other out of the ring.
-Its focus is intended to be towards embedded software and sensors, more specifically.
+Its focus is intended to be towards embedded software and sensors, more specifically. 
+
 ![Picture1](https://user-images.githubusercontent.com/60289976/115635033-722a1a00-a313-11eb-8d14-9c94f07903e7.jpg)
 
 
@@ -78,6 +79,15 @@ MarsWalker's software uses the data given by the sensors attached to the Arduino
 - navigating in the scopes of the ring indefinitely without going out of it, using the leftmost and the rightmost sensors on the reflectance sensor array.
 - attacking the opponent if detected by the ultrasonic distance sensor
 - scanning the ring while trying to detect the opponent
+
+
+# Schemas
+
+MarsWalker
+![Mars walker схема](https://user-images.githubusercontent.com/60289976/115635194-d4831a80-a313-11eb-8d9a-930798364cca.png)
+
+MoonWalker
+![Moon walker схема](https://user-images.githubusercontent.com/60289976/115635195-d51bb100-a313-11eb-8518-c6f120c93f86.png)
 
 
 # Setup
