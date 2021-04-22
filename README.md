@@ -81,14 +81,6 @@ MarsWalker's software uses the data given by the sensors attached to the Arduino
 - scanning the ring while trying to detect the opponent
 
 
-# Schemas
-
-MarsWalker
-![Mars walker схема](https://user-images.githubusercontent.com/60289976/115635194-d4831a80-a313-11eb-8d9a-930798364cca.png)
-
-MoonWalker
-![Moon walker схема](https://user-images.githubusercontent.com/60289976/115635195-d51bb100-a313-11eb-8518-c6f120c93f86.png)
-
 
 # Setup
 How to start a battle:
